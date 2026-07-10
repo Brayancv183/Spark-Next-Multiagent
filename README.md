@@ -283,16 +283,3 @@ multiagent/
 ├── .gitignore
 └── README.md
 ```
-
----
-
-## Rubrica de evaluacion
-
-| Criterio | Peso | Como se cumple |
-|---|---|---|
-| Investigacion y Propuesta | 35% | README, README tecnico, decisiones justificadas, arquitectura |
-| Claridad y Comunicacion | 30% | README, diagrama Mermaid, guion de prueba, codigo legible |
-| Ejecucion y Funcionalidad | 25% | 8 tests pasan, bot funcional, 5 agentes, dashboard |
-| Calidad del Codigo | 10% | Modulos organizados, sin dependencias innecesarias |
-| Creatividad (Bonus) | +20% | Bot Telegram, voz, bilingue, dashboard, registro auto, despedida, historial persistente |
-| Adaptabilidad (Bonus) | +5% | Deteccion idioma, registro de nuevos clientes, arquitectura extensible |
