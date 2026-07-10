@@ -1,0 +1,86 @@
+[
+  {
+    "nombre": "Carlos Munoz",
+    "cedula": "1012345678"
+  },
+  {
+    "nombre": "Maria Rodriguez",
+    "cedula": "1023456789"
+  },
+  {
+    "nombre": "Andres Lopez",
+    "cedula": "1034567890"
+  },
+  {
+    "nombre": "Diana Perez",
+    "cedula": "1045678901"
+  },
+  {
+    "nombre": "Pedro Gomez",
+    "cedula": "1056789012"
+  },
+  {
+    "nombre": "Laura Jimenez",
+    "cedula": "1067890123"
+  },
+  {
+    "nombre": "Jorge Martinez",
+    "cedula": "1078901234"
+  },
+  {
+    "nombre": "Ana Silva",
+    "cedula": "1089012345"
+  },
+  {
+    "nombre": "Luis Torres",
+    "cedula": "1090123456"
+  },
+  {
+    "nombre": "Sofia Ramirez",
+    "cedula": "1101234567"
+  },
+  {
+    "nombre": "Andres Castro",
+    "cedula": "1112345678"
+  },
+  {
+    "nombre": "Carmen Diaz",
+    "cedula": "1123456789"
+  },
+  {
+    "nombre": "Felipe Herrera",
+    "cedula": "1134567890"
+  },
+  {
+    "nombre": "Gabriela Ortiz",
+    "cedula": "1145678901"
+  },
+  {
+    "nombre": "Hector Vargas",
+    "cedula": "1156789012"
+  },
+  {
+    "nombre": "Isabel Rojas",
+    "cedula": "1167890123"
+  },
+  {
+    "nombre": "Javier Mendoza",
+    "cedula": "1178901234"
+  },
+  {
+    "nombre": "Karina Pena",
+    "cedula": "1189012345"
+  },
+  {
+    "nombre": "Leonardo Cruz",
+    "cedula": "1190123456"
+  },
+  {
+    "nombre": "Monica Ruiz",
+    "cedula": "1201234567"
+  },
+  {
+    "nombre": "Nuevo Usuario",
+    "cedula": "9999999999"
+  }
+]

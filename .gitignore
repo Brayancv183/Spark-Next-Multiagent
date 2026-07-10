@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.ogg
+*.wav
+temp_audio/
+logs/
+data/historial_clientes.json
+venv/
+.venv/

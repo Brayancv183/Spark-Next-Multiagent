@@ -1,0 +1,80 @@
+[
+  {
+    "id_request": "REQ-001",
+    "tipo": "problema_tecnico",
+    "descripcion": "Cliente reporta que su internet no funciona o tiene cortes frecuentes",
+    "sentimiento_esperado": "negativo"
+  },
+  {
+    "id_request": "REQ-002",
+    "tipo": "problema_facturacion",
+    "descripcion": "Cliente reporta errores en su factura, cobros indebidos o doble cobro",
+    "sentimiento_esperado": "negativo"
+  },
+  {
+    "id_request": "REQ-003",
+    "tipo": "consulta_saldo",
+    "descripcion": "Cliente quiere saber su saldo, estado de cuenta o pagos realizados",
+    "sentimiento_esperado": "neutro"
+  },
+  {
+    "id_request": "REQ-004",
+    "tipo": "felicitacion_upgrade",
+    "descripcion": "Cliente satisfecho que quiere felicitar o mejorar su plan actual",
+    "sentimiento_esperado": "positivo"
+  },
+  {
+    "id_request": "REQ-005",
+    "tipo": "cancelacion",
+    "descripcion": "Cliente solicita cancelar su servicio por insatisfaccion o mudanza",
+    "sentimiento_esperado": "negativo"
+  },
+  {
+    "id_request": "REQ-006",
+    "tipo": "nueva_contratacion",
+    "descripcion": "Cliente quiere contratar un nuevo servicio para el o un familiar",
+    "sentimiento_esperado": "positivo"
+  },
+  {
+    "id_request": "REQ-007",
+    "tipo": "problema_equipo",
+    "descripcion": "Cliente reporta dano en modem, router o equipo entregado",
+    "sentimiento_esperado": "negativo"
+  },
+  {
+    "id_request": "REQ-008",
+    "tipo": "cambio_plan",
+    "descripcion": "Cliente quiere cambiarse a un plan mas economico o diferente",
+    "sentimiento_esperado": "neutro"
+  },
+  {
+    "id_request": "REQ-009",
+    "tipo": "queja_atencion",
+    "descripcion": "Cliente insatisfecho con la atencion recibida por un asesor anterior",
+    "sentimiento_esperado": "negativo"
+  },
+  {
+    "id_request": "REQ-010",
+    "tipo": "consulta_cobertura",
+    "descripcion": "Cliente pregunta si hay cobertura en una direccion o ciudad especifica",
+    "sentimiento_esperado": "neutro"
+  },
+  {
+    "id_request": "REQ-011",
+    "tipo": "actualizacion_datos",
+    "descripcion": "Cliente quiere actualizar su direccion, telefono o metodo de facturacion",
+    "sentimiento_esperado": "neutro"
+  },
+  {
+    "id_request": "REQ-012",
+    "tipo": "promociones",
+    "descripcion": "Cliente interesado en ofertas, descuentos o promociones vigentes",
+    "sentimiento_esperado": "positivo"
+  },
+  {
+    "id_request": "REQ-013",
+    "tipo": "problema_velocidad",
+    "descripcion": "Cliente reporta que el internet es lento o no cumple la velocidad contratada",
+    "sentimiento_esperado": "negativo"
+  }
+]
